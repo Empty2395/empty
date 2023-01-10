@@ -1,0 +1,8 @@
+D:\cшарп\ООП\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe.config
+D:\cшарп\ООП\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe
+D:\cшарп\ООП\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.pdb
+D:\cшарп\ООП\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.AssemblyReference.cache
+D:\cшарп\ООП\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.SuggestedBindingRedirects.cache
+D:\cшарп\ООП\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.CoreCompileInputs.cache
+D:\cшарп\ООП\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.exe
+D:\cшарп\ООП\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.pdb
